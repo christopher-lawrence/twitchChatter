@@ -1,6 +1,0 @@
-C:\sandbox_mine\twitchChatter\twitchChatter\bin\Debug\twitchChatter.exe.config
-C:\sandbox_mine\twitchChatter\twitchChatter\bin\Debug\twitchChatter.exe
-C:\sandbox_mine\twitchChatter\twitchChatter\bin\Debug\twitchChatter.pdb
-C:\sandbox_mine\twitchChatter\twitchChatter\obj\Debug\twitchChatter.exe
-C:\sandbox_mine\twitchChatter\twitchChatter\obj\Debug\twitchChatter.pdb
-C:\sandbox_mine\twitchChatter\twitchChatter\obj\Debug\twitchChatter.csprojResolveAssemblyReference.cache
