@@ -16,6 +16,9 @@ namespace twitchChatter.Reply
                 "no",
                 "I am evolved",
                 "you wish you were me PJSalt",
+                "MrDestructoid",
+                "I am the deIlluminati",
+                "4Head"
             };
         }
     }

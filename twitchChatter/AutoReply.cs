@@ -49,9 +49,11 @@ namespace twitchChatter
                             continue;
                         switch (found)
                         {
-                            case "kappa":
-                                await _kappa.Reply(parsedChat);
-                                break;
+                            //case "kappa":
+                            //    if (parsedChat.Username.ToLower().Contains("kappa"))
+                            //        break;
+                            //    await _kappa.Reply(parsedChat);
+                            //    break;
                             case "derpy_derper":
                                 await _username.Reply(parsedChat);
                                 break;
@@ -72,26 +74,6 @@ namespace twitchChatter
                 }
 
             }
-        }
-
-        public Task ReplyKappa(ChatMessage message)
-        {
-            return _client.SendChatMessage("@{0} Kappa", message.Username);
-        }
-
-        public Task Reply(ChatMessage message)
-        {
-            return _client.SendChatMessage("@{0} no", message.Username);
-        }
-
-        public Task ReplyKreygasm(ChatMessage message)
-        {
-            return _client.SendChatMessage("@{0} it was good for me too", message.Username);
-        }
-
-        public Task ReplyBibleThump(ChatMessage message)
-        {
-            return _client.SendChatMessage("@{0} get over it PogChamp", message.Username);
         }
     }
 }

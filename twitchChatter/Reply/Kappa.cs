@@ -17,6 +17,7 @@ namespace twitchChatter.Reply
                 "Keepo",
                 "KappaPride",
                 "KappaRoss",
+                "Kippa"
             };
         }
     }

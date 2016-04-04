@@ -14,7 +14,7 @@ namespace twitchChatter.Reply
             Replies = new List<string>
             {
                 "it was good for me too",
-
+                "WutFace"
             };
         }
     }
